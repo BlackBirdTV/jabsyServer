@@ -1,0 +1,15 @@
+{
+	"name": "TestServer",
+	"channels": [ 
+		{
+			"name": "NaN",
+			"port": "3002",
+			"type": "talk"
+		},
+		{
+			"name": "NaN2",
+			"port": "3003",
+			"type": "chat"
+		}
+	]
+}
